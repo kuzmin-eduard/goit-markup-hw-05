@@ -137,7 +137,7 @@ img {
 
 .site-nav {
   display: flex;
-  gap: 32px;
+  gap: 32px 50px;
 }
 
 /* contact-nav */
